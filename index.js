@@ -64,7 +64,7 @@ const drive = google.drive({ version: 'v3', auth });
 
 // app.use(cors());
 app.use(cors({
-  origin: 'https://diary-notes-v1.vercel.app/', // or '*' for now
+  origin: 'https://diary-notes-v1.vercel.app', // or '*' for now
   credentials: true
 }));
 
