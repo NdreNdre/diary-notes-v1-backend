@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diarybackupv1",
+  "private_key_id": "c4aab0dc513e9a546355ff49a0d943c59bf46f94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7iH8DquHVK1/4\n18UUK+w+vnoLuEtcL3TNlJvV55os0UzYGI3ARQE5xy4LuHGP7lrLzXUL41KBBCz+\nCCehWtv7GD+R125kO6rC8wnxnV/EVzLa81qXi3Z7XCsn54mEHyzXnHZHe+ieOP3W\nEiSa02BWmCDRUz3RLxgfCYQTkMEk/Xa+LuDnEg8hz+s3iDCFo2PCo8Kis3E8GRqW\nxvVWqj3+iyHUZXahEq+v3sSGSrlqiMR383S4hdadvPYeG2BJhcpUvS35ktl0/1Mz\nndhGxD7tNUn4azjT5TLXNhZqf+cU3d0LdpAiYDC2VKplrbA79uAnYaAhjBACBaxD\nocg9N/f3AgMBAAECggEAJR0MVgN5kiB1a9/35tgSdxBnQu6EK4hQy2a/uIOPZZM+\na/3f/88oQPEEUdl80AlR+sd8hI/GgjX7WYLvpOVAZ98SpaBG/ps4XkCPFTwZ+ddv\n/xjuMtOs7Rj+iXUvJ/CrhTg3yEnjbXzF75nDmMiAZmLRC9w3fbCeS3Ysp1qcft87\nUwCTrf3FvWsOatkjxchCjH0rUCsiUbCxxMB16NdpKCMKK4m7opU7kGyf4gClfLiN\nEZ3zMyF/4bc6vuS6LKR/uQUpr/iKddrE15QNAAxHwIVDoVwmY6ircHTWeuIu3yEU\nO73AE0xJC+xJTvpo16S7AUaoAzlkVILYEXIykTR40QKBgQD2GAU94YwPbfEChgcU\ni6do3ZzPZn91TzBOD1LKnO5B2qCMG4bpYPn/eO+EwPO/DnIIZo3GjPpQTKIQ1x5b\nvbgzcDU+eQPj6VTTGHAemgHyRMIL8/YUstpcu9imXy07990OBiLHAH26iBW+anZe\ngral5KTco6xRYe+omLf6uhVsNQKBgQDDFQMsizLyfoX5MjQyxnfE9L56BLD+eZ7K\n6+o5x5BxeJZ+2rOyjHb+L5aevK8jJo8ZqVvLmP9TkQimEwJdiWvXIRG7NsYZJRV3\nQbqQLxUfmbSmiWqG8Mg4GlVJhXy3AlGMkSaM1Q7JO8J4VP1LIVE6k40DFuTET88G\niytpQXdg+wKBgQCTog1i9jAkAXyYWvdcZ/tiebBc68yC/6Km8aJlUofMke/Gnazt\nzPOtQ0vNhEO11mCqkXt0JZb1HUQMfkEEIGik0yfd9pNS4uO0T/DTKukIAh+3M//o\novNEtpxeErL8StIeW6f5Yl4KzSDePtgMEraoBuawRrBVkj9IEXYtv/yiEQKBgEtz\nHgYlVDALlT9bFmso7XukeOLyW44gdbTf53gvYgMw82vepC+DOiZ3O1brfQUoTaJM\nKS+mXeHxLxokMf8BPk83AAebWKSy/glgx4oqW44cQY1DiorkJ1vje2bzFNgnMmke\nXn2LjatwzHcDz+811JfGJ3yxZwsyHszWGJUd99DvAoGAdaWBK1jy0IfgAcMAf8qE\ntQqAL8g+A7FwekUCQSIYtJZSfyDSIdtEW1zPpeKoaZ29+gFr9BQOKZCm0Hxba1e0\nHB2/yiDDTMpMOwRXMkL+oDb7S8qqY1JzVN1jfjbyakT0PH1Lu3FQE38nx1oZM0+w\nIhdnLEekZ5nzWD5jb59O928=\n-----END PRIVATE KEY-----\n",
+  "client_email": "diarybackup1@diarybackupv1.iam.gserviceaccount.com",
+  "client_id": "113571474250571070736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diarybackup1%40diarybackupv1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
