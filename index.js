@@ -62,7 +62,11 @@ auth.authorize((err, tokens) => {
 
 const drive = google.drive({ version: 'v3', auth });
 
-app.use(cors());
+// app.use(cors());
+app.use(cors({
+  origin: 'https://diary-notes-v1.vercel.app/', // or '*' for now
+  credentials: true
+}));
 app.use(express.json());
 
 const PORT = process.env.PORT || 3001;
