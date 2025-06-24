@@ -67,6 +67,8 @@ app.use(cors({
   origin: 'https://diary-notes-v1.vercel.app/', // or '*' for now
   credentials: true
 }));
+
+app.options('*', cors());
 app.use(express.json());
 
 const PORT = process.env.PORT || 3001;
