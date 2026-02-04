@@ -195,7 +195,7 @@ app.get('/list-note', async (req,res) => {
         const { data : notes, error } = await supabase
             .from('notes')
             .select('*')
-            .order('updated_at', {ascending:false});
+            .order('created_at', {ascending:false});
 
         if (error || notes.length === 0) {
             return res.status(401).json({ message: 'Notes Not Found', error:error });
