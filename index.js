@@ -198,7 +198,7 @@ app.get('/list-note', async (req,res) => {
             .order('updated_at', {ascending:false});
 
         if (error || notes.length === 0) {
-            return res.status(401).json({ message: 'Notes Not Found' });
+            return res.status(401).json({ message: 'Notes Not Found', error:error });
         }
         
         res.status(200).json({ notes });
